@@ -14,18 +14,19 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 ## Tecnologias 
 
 * [Dart - Flutter]
-* [Desenvovlimento Mobile]
+* [React]
 
 <br>
 
 ## :clipboard:  Sobre os Cursos 
 
-
-* [Flutterando TV - Curso Flutter 2022](https://www.youtube.com/watch?v=Wdn6peqH9ZQ&list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)
+* [Alura - React]
+* [Alura - Flutter]
 
 ### Mateiral de apoio
 
 * [Documentação Flutter by Google](https://docs.flutter.dev/get-started/codelab)
+* [Documentação React](https://react.dev/)
   
 
 ## :clipboard: Overview
@@ -33,29 +34,8 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 ### Conteúdos a ser estudado
 ##### Importante manter o README do seu PDI sempre atualizado para que possamos acompanhar o seu desenvolvimento na Peki Code!
 
-- [x] Flutter Curso 2022 #1 - Seja bem-vindo!
-- [x] Flutter Curso 2022 #2 - Instalando o Flutter
-- [x] Flutter Curso 2022 #3 - Instalando o VSCode
-- [x] Flutter Curso 2022 #4 - Pastas de projeto
-- [x] Flutter Curso 2022 #5 - Conhecendo o Hot Reload
-- [x] Flutter Curso 2022 #6 - Os botões de depuração do VSCode
-- [x] Flutter Curso 2022 #7 - Criação de widgets
-- [ ] Flutter Curso 2022 #8 - O MaterialApp
-- [ ] Flutter Curso 2022 #9 - ErrorLens e lint
-- [ ] Flutter Curso 2022 #10 - O Scaffold
-- [ ] Flutter Curso 2022 #11 - Componentizando widgets
-- [ ] Flutter Curso 2022 #12 - Primeira e última aula sobre InheritedWidget
-- [ ] Flutter Curso 2022 #13 - O StatefulWidget
-- [ ] Flutter Curso 2022 #14 - (Columns e Rows) eixos
-- [ ] Flutter Curso 2022 #15 - (Columns e Rows) prática
-- [ ] Flutter Curso 2022 #16 - Scroll
-- [ ] Flutter Curso 2022 #17 - ListView
-- [ ] Flutter Curso 2022 #18 - Exemplo prático de uso
-- [ ] Flutter Curso 2022 #19 - Stack
-- [ ] Flutter Curso 2022 #20 - Usando o Image.network
-- [ ] Flutter Curso 2022 #21 - Acessando imagens locais
-- [ ] Flutter Curso 2022 #22 - Stack como máscara
-- [ ] Flutter Curso 2022 #23 - Stack com Rows e Columns
+- [ ] Alura React - Primeiro projeto em React
+- [ ] 
 
 
 ## Resposnaveis pelo PDI na Peki Code
