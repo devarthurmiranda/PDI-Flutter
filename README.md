@@ -35,6 +35,8 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 ##### Importante manter o README do seu PDI sempre atualizado para que possamos acompanhar o seu desenvolvimento na Peki Code!
 
 - [x] Alura React - Primeiro projeto em React (https://github.com/devarthurmiranda/react-signup)
+- [ ] Alura React - Parâmetros de componente
+- [ ] Alura React - Criando formulário
 
 
 ## Resposnaveis pelo PDI na Peki Code
